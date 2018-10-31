@@ -1,0 +1,11 @@
+{
+  "name": "edit-file-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "guweimo",
+  "license": "MIT"
+}
