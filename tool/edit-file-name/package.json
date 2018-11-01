@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node index.js"
   },
   "author": "guweimo",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">= 8.0"
+  },
+  "devDependencies": {}
 }
